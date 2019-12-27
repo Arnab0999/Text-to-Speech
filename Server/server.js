@@ -8,8 +8,8 @@ var server = http.createServer(function(request,response){
     }
     else if(request.url=="/text"){
         var verbs, nouns, adjectives, adverbs, preposition;
-        nouns = ["bird", "clock", "boy", "plastic", "duck", "teacher", "old lady", "professor", "hamster", "dog"];
-        verbs = ["kicked", "ran", "flew", "dodged", "sliced", "rolled", "died", "breathed", "slept", "killed"];
+        nouns = ["Ramit", "clock", "Ninad", "plastic", "Avishek", "teacher", "old lady", "professor", "pussy", "Sukhi"];
+        verbs = ["fucked", "ran", "flew", "dodged", "sliced", "rolled", "died", "breathed", "slept", "killed"];
         adjectives = ["beautiful", "lazy", "professional", "lovely", "dumb", "rough", "soft", "hot", "vibrating", "slimy"];
         adverbs = ["slowly", "elegantly", "precisely", "quickly", "sadly", "humbly", "proudly", "shockingly", "calmly", "passionately"];
         preposition = ["down", "into", "up", "on", "upon", "below", "above", "through", "across", "towards"];
